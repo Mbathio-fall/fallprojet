@@ -264,12 +264,13 @@ fieldset{
         padding: 5px 5px;
         color: #fff;
     }
-        input[type=number]{
-                width: 50%;
-                border-radius: 7px;
-                padding: 5px 5px;
-                color: #fff;
-        }
+
+input[type=number]{
+        width: 40%;
+        border-radius: 7px;
+        padding: 5px 5px;
+        color: #fff;
+    }
     input[type=submit]{
         width: 40%;
         margin-top: 10px;
